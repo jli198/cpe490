@@ -9,7 +9,6 @@ Office: Burchard 205, Office Hours: Wednesday 2:30pm - 5:30pm <br>
 Course Web Address: <br>
 Prerequisite(s): MA 134             Co-requisite(s): None <br>
 Cross-listed with: N/A <br>
-<br>
 
 ### COURSE DESCRIPTION
 <p> The purpose of this course is to introduce students to the fundamentals of computer networking, layering, protocols and applications. The course has an emphasis on the Internet and associated architectures. At the end of this course, students should be familiar with topics such as protocol layering, HTTP/S, DNS, SNMP, ICMP, TCP, UDP, BGP, Link State, Distance Vector, Medium Access, TDMA, FDMA, etc. </p>
@@ -33,10 +32,10 @@ Cross-listed with: N/A <br>
 **Textbook:** Andrew S. Tanenbaum, Computer Networks, 6th Edition, Pearson, 2019, ISBN-10: 0135408008, ISBN-13: 978-0135408001
 
 ### COURSE REQUIREMENTS
-<p> **Homework:** There will be a few homework assignments throughout this course. <br> 
+**Homework:** There will be a few homework assignments throughout this course. <br> 
 **In-Class Exercise:** There will be an In-Class Exercise in almost every class. <br>
 **Technical Paper Reading & Presentation:** You are required to read a recent research paper in the areas of computer networking or wireless networks. The paper list will be given later. The papers are from top networking conferences (such as IEEE Infocom, ICC, GlobeCom, ACM MobiCom, ACM MobiHoc, etc). The purpose of the Technical Paper Reading is to let students know the up-to-date research frontier in networking area. You need to prepare slides and talk about the main content of the paper. <br>
-**Exams:** There will be a mid-term exam and a final exam.</p>
+**Exams:** There will be a mid-term exam and a final exam.
 
 ### GRADING PROCEDURES
 <p> **Homework................................................** 5% <br> 
