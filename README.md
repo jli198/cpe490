@@ -15,7 +15,7 @@ Cross-listed with: N/A <br>
 <p> The purpose of this course is to introduce students to the fundamentals of computer networking, layering, protocols and applications. The course has an emphasis on the Internet and associated architectures. At the end of this course, students should be familiar with topics such as protocol layering, HTTP/S, DNS, SNMP, ICMP, TCP, UDP, BGP, Link State, Distance Vector, Medium Access, TDMA, FDMA, etc. </p>
 
 ### LEARNING OBJECTIVES
-<p> **After successful completion of this course, students will be able to understand...** </p>
+**After successful completion of this course, students will be able to understand...**
 * The basic principles of computer networking, layering, protocols and applications;
 * The Physical Layer Transmission Media, Wireless Transmission, Satellite Communications, Public Switched Telephone Network, Mobile Telephone System, Cable).
 * Data Link Layer Design Issues, Error Detection and Correction.
