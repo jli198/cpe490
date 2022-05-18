@@ -1,4 +1,4 @@
-# CPE 490A - Information Systems Engineering I: Computer Networking
+# CPE 490B - Information Systems Engineering I: Computer Networking
 Schafer School of Engineering & Science, **Fall 2022** <br>
 <br>
 Meeting Times: 6:30pm - 9:05pm, Tuesday <br>
