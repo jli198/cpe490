@@ -38,9 +38,8 @@ Cross-listed with: N/A <br>
 **Exams:** There will be a mid-term exam and a final exam.
 
 ### GRADING PROCEDURES
-<p> **Homework................................................** 5% <br> 
+**Homework....................................................** 5% <br> 
 **In-Class Exercise** (No Make-up exercise will be allowed)... 5% <br>
 **Technical Paper Reading & Presentation...................** 20% <br> 
 **Midterm Exam.............................................** 30% <br>
 **Final Exam...............................................** 30% <br> 
-</p>
