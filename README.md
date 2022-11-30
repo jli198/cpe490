@@ -1,11 +1,11 @@
 # CPE 490B - Information Systems Engineering I: Computer Networking
 Schafer School of Engineering & Science, **Fall 2022** <br>
 <br>
-Meeting Times: 6:30pm - 9:05pm, Tuesday <br>
+Meeting Times: 6:30pm - 9:00pm, Tuesday <br>
 Classroom Location: Babbio 220 <br>
 Instructor: Professor James Xiaojiang Du <br>
 Contact Info: xdu16@stevens.edu <br>
-Office: Burchard 205, Office Hours: Wednesday 2:30pm - 5:30pm <br>
+Office: Burchard 205, Office Hours: Tuesday 3:30pm - 5:30pm <br>
 Course Web Address: <br>
 Prerequisite(s): MA 134             Co-requisite(s): None <br>
 Cross-listed with: N/A <br>
@@ -39,7 +39,7 @@ Cross-listed with: N/A <br>
 
 ### GRADING PROCEDURES
 **Homework....................................................** 5% <br> 
-**In-Class Exercise** (No Make-up exercise will be allowed)... 5% <br>
+**In-Class Exercise** (No Make-up exercise will be allowed)... 15% <br>
 **Technical Paper Reading & Presentation...................** 20% <br> 
 **Midterm Exam.............................................** 30% <br>
 **Final Exam...............................................** 30% <br> 
