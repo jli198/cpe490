@@ -42,9 +42,3 @@ def physical_layer(message):
 message = input("Please enter a message: ")
 time_start= time.time()
 application_layer(message)
-
-
-
-
-
-
